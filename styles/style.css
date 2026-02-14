@@ -1,0 +1,44 @@
+html {
+  tamaño de fuente: 10px;
+  familia de fuentes: 'Quantico', sans-serif;
+}
+
+h1 {
+  tamaño de fuente: 60px;
+  alinear texto: centro;
+}
+
+h2 {
+  tamaño de fuente: 30px;
+  alinear texto: centro;
+}
+
+p, li {
+  tamaño de fuente: 16px;
+  altura de línea: 2;
+  espaciado entre letras: 1px;
+}
+
+html {
+  color de fondo: #3a86ff;
+}
+
+cuerpo {
+  ancho: 600px;
+  margen: 0 automático;
+  color de fondo: #ffbe0b;
+  relleno: 0 20px 20px 20px;
+  borde: 5px negro sólido;
+}
+
+h1 {
+  margen: 0;
+  relleno: 20px 0;
+  color: #ff006e;
+  sombra de texto: 3px 3px 1px negro;
+}
+
+imagen {
+  pantalla: bloque;
+  margen: 0 automático;
+}

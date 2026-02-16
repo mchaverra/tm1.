@@ -1,44 +1,44 @@
 html {
-  tamaño de fuente: 10px;
-  familia de fuentes: 'Quantico', sans-serif;
+  font-size: 10px;
+  font-family: 'Quantico', sans-serif;
 }
 
 h1 {
-  tamaño de fuente: 60px;
-  alinear texto: centro;
+  font-size: 60px;
+  text-align: center;
 }
 
 h2 {
-  tamaño de fuente: 30px;
-  alinear texto: centro;
+  font-size: 30px;
+  text-align: center;
 }
 
 p, li {
-  tamaño de fuente: 16px;
-  altura de línea: 2;
-  espaciado entre letras: 1px;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
 
 html {
-  color de fondo: #3a86ff;
+  background-color: #3a86ff;
 }
 
-cuerpo {
-  ancho: 600px;
-  margen: 0 automático;
-  color de fondo: #ffbe0b;
-  relleno: 0 20px 20px 20px;
-  borde: 5px negro sólido;
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ffbe0b;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
 }
 
 h1 {
-  margen: 0;
-  relleno: 20px 0;
+  margin: 0;
+  padding: 20px 0;
   color: #ff006e;
-  sombra de texto: 3px 3px 1px negro;
+  text-shadow: 3px 3px 1px black;
 }
 
-imagen {
-  pantalla: bloque;
-  margen: 0 automático;
+img {
+  display: block;
+  margin: 0 auto;
 }

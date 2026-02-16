@@ -26,7 +26,7 @@ html {
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #ffbe0b;
+  background-color: #ffc8dd;;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -41,16 +41,4 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-}
-h2 {
-  display: inline-block;
-  animation: wave 2s ease-in-out infinite;
-}
-
-@keyframes wave {
-  0%   { transform: translateY(0px); }
-  25%  { transform: translateY(-8px); }
-  50%  { transform: translateY(0px); }
-  75%  { transform: translateY(8px); }
-  100% { transform: translateY(0px); }
 }
